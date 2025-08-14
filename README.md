@@ -17,7 +17,7 @@ The project currently contains some bugs and is a prototype that I may expand on
 
 ---
 
-### Tech Stack
+### Tools and Libraries
 
 - Python  
 - pygame  
